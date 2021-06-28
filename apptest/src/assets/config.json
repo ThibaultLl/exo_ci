@@ -1,0 +1,11 @@
+{
+  "nom": "Gestin",
+  "prenom": "Gweltaz",
+  "promo": "ISTIC Master 2 GL",
+  "secret": "mon secret",
+  "hobbies": [
+    "Series",
+    "Movies",
+    "Comics"
+  ]
+}
